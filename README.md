@@ -4,8 +4,6 @@
 </a>
 <div id="header" align="center">
 
- ㅤㅤㅤ 𝑺𝑬𝑵𝑻𝑹𝒀ㅤㅤㅤㅤ  𝑨𝑻𝑨𝑩𝑶𝑶𝑲
-
- ㅤㅤ [![](https://file.garden/Zr9pQUjDehbOqoLM/chiflower.gif)](https://sntry.cc/helel)ㅤ ㅤㅤ ㅤㅤㅤ ㅤ[![](https://file.garden/Zr9pQUjDehbOqoLM/chithread.gif)](https://helel.atabook.org/)
+ ㅤㅤ [![](https://file.garden/Z3bN9S1OK095pmVR/%2B-SENTRY.png)](https://sntry.cc/helel)ㅤ ㅤㅤ ㅤㅤㅤ ㅤ[![](https://file.garden/Z3bN9S1OK095pmVR/%2B-ATABOOK.png)](https://helel.atabook.org/)
 <div id="header" align="center">
 

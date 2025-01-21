@@ -4,4 +4,4 @@
 </a>
 <div id="header" align="center">
 
- ㅤㅤ [![](https://files.catbox.moe/iyckz9.gif)](https://sntry.cc/helel) ㅤㅤㅤ ㅤ[![](https://files.catbox.moe/ot71at.gif)](https://helel.atabook.org/)
+ ㅤㅤ [![](https://files.catbox.moe/z8g77e.png)](https://sntry.cc/helel)ㅤㅤ ㅤ[![](https://files.catbox.moe/kqhajr.png)](https://helel.atabook.org/)

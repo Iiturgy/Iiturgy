@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=a+gothique+time&letterSpacing=1px&color=DBDBDB&center=true&vCenter=true&lines=I+need+to+feel+like+i+am+human+through+you)]((https://git.io/typing-svg))
+
 <div id="header" align="center">
 <a href="https://www.youtube.com/watch?v=1-m1PSLzN6c">
   <img src="https://file.garden/Z3bN9S1OK095pmVR/IMG_6011.png" alt=" " width="384" height="384">

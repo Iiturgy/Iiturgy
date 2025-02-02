@@ -7,7 +7,7 @@
 </a>
 <div id="header" align="center">
 
-ㅤㅤㅤ![](https://file.garden/Z3bN9S1OK095pmVR/tumblr_2bd2cbaa1b6f639088628caca14ee72e_7fc5ae32_500.png)
+ㅤㅤㅤ
 
 <div id="header" align="center">
 

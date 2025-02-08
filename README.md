@@ -11,4 +11,4 @@
 ㅤㅤㅤ
 <div id="header" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&pause=100&color=E7DCC8&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&pause=100&color=E7DCC8&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&pause=100&color=E7DCC8&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&pause=100&color=E7DCC8&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)

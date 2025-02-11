@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&pause=1000&color=e7dcc8&center=true&vCenter=true&width=435&lines=Oh+blood+and+viscera+divine)](https://www.youtube.com/watch?v=Jz0Zsu9J8Os)
 <div id="header" align="center">
 <a href="https://www.youtube.com/watch?v=1-m1PSLzN6c">
-  <img src="https://file.garden/Z3bN9S1OK095pmVR/ithagraph.png?v=1738998669229" alt=" " width="399" height="378">
+  <img src="https://files.catbox.moe/qd5b7d.png" alt=" " width="399" height="399">
 </a>
 <div id="header" align="center">
 ㅤㅤㅤ

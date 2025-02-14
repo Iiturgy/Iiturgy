@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=1-m1PSLzN6c">
-        <img src="https://files.catbox.moe/0inov9.png" width="335" height="419">
+        <img src="https://files.catbox.moe/0inov9.png" width="322" height="402">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">

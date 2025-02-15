@@ -9,4 +9,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=dbd4c4&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=dbd4c4&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=dbd4c4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&cover_image=true&theme=novatorem&show_offline=false&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&redirect=true)

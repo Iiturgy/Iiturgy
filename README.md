@@ -13,7 +13,7 @@
 </a>
 <div id="header" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=dadada&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=dadada&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=dadada&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=dadada&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)
 
 <div id="header" align="center">
 <a href="">

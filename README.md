@@ -1,8 +1,4 @@
 <div id="header" align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&cover_image=true&theme=novatorem&show_offline=false&interchange=false&bar_color=dadada&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&redirect=true)
-
-<div id="header" align="center">
 <a href="">
 <img src="https://64.media.tumblr.com/f72a90f1926d53d7528b0497d5f24973/9b1c95288c427100-81/s1280x1920/c9e39f46f014dd8e78236a01b40f3a368a48c7a5.pnj" width='450' height='62'>
 </a>

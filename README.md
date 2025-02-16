@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-ㅤㅤㅤㅤㅤㅤㅤ[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&cover_image=false&theme=novatorem&show_offline=false&interchange=false&bar_color=dadada&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&cover_image=true&theme=novatorem&show_offline=false&interchange=false&bar_color=dadada&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&redirect=true)
 
 <div id="header" align="center">
 <a href="">
@@ -13,7 +13,7 @@
 
 <div id="header" align="center">
 <a href="https://www.youtube.com/watch?v=1-m1PSLzN6c">
-<img src="https://64.media.tumblr.com/de359465faf0a959c3f3995a5e32b839/c92552cb3469f532-16/s75x75_c1/262268ef628fda007c1bd7284dfb9c3f02541f71.gifv" width='' height=''>
+<img src="https://files.catbox.moe/p5x1ib.png" width='120' height='120'>
 </a>
 <div id="header" align="center">
 

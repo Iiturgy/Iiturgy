@@ -1,7 +1,3 @@
-<div id="header" align="center">
-<a href="">
-<img src="https://64.media.tumblr.com/96806f3cf22cec03d038230eec24efac/a4eacaff1ea4b3ef-17/s2048x3072/762007b3f6a334caf395502aa8deead6d7b09e5b.pnj" width='512' height='106'>
-</a>
 
 <div id="header" align="center">
 
@@ -14,8 +10,3 @@
 <div id="header" align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=c3bbba&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=c3bbba&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)
-
-<div id="header" align="center">
-<a href="">
-<img src="https://64.media.tumblr.com/96806f3cf22cec03d038230eec24efac/a4eacaff1ea4b3ef-17/s2048x3072/762007b3f6a334caf395502aa8deead6d7b09e5b.pnj" width='512' height='106'>
-</a>

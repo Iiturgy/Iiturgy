@@ -4,4 +4,6 @@
 
 <div id="header" align="center">
 
-thank you for this wonderful image benji !
+me and the love of my life <3
+<div>
+(thank you for this wonderful drawing benji !)

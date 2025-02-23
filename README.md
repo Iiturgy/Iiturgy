@@ -4,6 +4,6 @@
 
 <div id="header" align="center">
 
-me and the love of my life <3
+me and the love of my life
 <div>
-(thank you for this wonderful drawing benji !)
+(thank you for the wonderful drawing benji)

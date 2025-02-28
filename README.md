@@ -5,4 +5,4 @@
 
 <div id="header" align="center">
 
-check out my alt @schizoposting >_O
+check out my alt **schizoposting** >_O

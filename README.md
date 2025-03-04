@@ -5,4 +5,4 @@
 
 <div id="header" align="center">
 
-one day i'll finish all my info .. trust >_O
+one day i'll finish all my links .. trust >_O

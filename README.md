@@ -5,4 +5,4 @@
 
 <div id="header" align="center">
 
-one day i'll finish all my links .. trust >_O
+[![](https://spotify-github-profile.kittinanx.com/api/view?uid=rujdw0jau3a8kb1ol0vszm4l9&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)

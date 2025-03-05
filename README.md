@@ -5,4 +5,4 @@
 
 <div id="header" align="center">
 
-[![](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=ffffff&width=48&height=48&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤㅤ[![](https://readme-typing-svg.demolab.com?font=a+gothique+time&size=30&letterSpacing=1px&duration=1&pause=100000000000&&center=true&vCenter=true&color=ffffff&width=60&height=48&lines=Atabook)](https://helel.atabook.org/)
+[![](https://readme-typing-svg.demolab.com?font=Lavishly+Yours&size=30&letterSpacing=1px&duration=1&pause=100000000000&color=FFFFFF&center=true&vCenter=true&width=93&lines=Sentry)](https://sntry.cc/helel)ㅤㅤㅤㅤㅤㅤ[![](https://readme-typing-svg.demolab.com?font=Lavishly+Yours&size=30&letterSpacing=1px&duration=1&pause=100000000000&color=FFFFFF&center=true&vCenter=true&width=93&lines=Atabook)](https://helel.atabook.org)

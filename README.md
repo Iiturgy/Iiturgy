@@ -1,4 +1,9 @@
 <div id="header" align="center">
+<a href="">
+<img src="https://64.media.tumblr.com/a810e5078c008195778b0f8b901922cb/70d85912b73a558c-dd/s2048x3072/02a1873c9cbb1d87d6962be5499cde1f87266d9b.pnj" width='410' height='154'>
+</a>
+
+<div id="header" align="center">
 <a href="https://sntry.cc/yurionice">
 <img src="https://i.postimg.cc/L8vXXQSV/Untitled9-20250305135626.png" width='400' height='400'>
 </a>

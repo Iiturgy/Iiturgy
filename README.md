@@ -10,7 +10,7 @@
 
 <div id="header" align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Tangerine&size=25&pause=100000000000&color=ECE6E7&center=true&vCenter=true&random=true&width=435&height=32&lines=How+can+a+loving+god+cause+such+agony%3F)
+![](https://readme-typing-svg.demolab.com?font=Tangerine&size=25&letterSpacing=1px&pause=100000000000&color=ECE6E7&center=true&vCenter=true&random=true&width=435&height=32&lines=How+can+a+loving+god+cause+such+agony%3F)
 
 <div id="header" align="center">
 <a href=" ">

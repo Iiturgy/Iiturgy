@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
 <a href="https://file.garden/Z3bN9S1OK095pmVR/%E3%80%90%E6%89%8B%E6%8F%8F%E3%81%8D%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E3%80%91%E5%A4%9C%E3%81%AE%E7%95%AA%E4%BA%BA%E3%81%A7MONSTER_meme%201080.mp4">
-<img src="https://file.garden/Z3bN9S1OK095pmVR/Untitled25_20250404225356.png" width='410' height='358'>
+<img src="https://file.garden/Z3bN9S1OK095pmVR/whiteday.png" width='410' height='358'>
 </a>
 
 <div id="header" align="center">
